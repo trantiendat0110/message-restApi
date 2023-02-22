@@ -1,6 +1,5 @@
 # message-restApi
 
-# todo-app
 Readme Document for a ReactJS Chat App
 
 
